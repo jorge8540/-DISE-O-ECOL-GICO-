@@ -1,0 +1,21 @@
+.bicicleta{
+
+  display: flex;
+}
+.autolavado{
+
+  display: flex;
+}
+.escritorio{
+  display: flex;
+}
+.telefono{
+  display: flex;
+}
+.audifonos{
+  display: flex;
+}
+body{
+    font-family: arial, helvetica;
+    background: #00bfff;
+  }
